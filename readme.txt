@@ -16,6 +16,8 @@ Modifies RSS feeds so that they include pages and not just posts. Deactivating t
 
 Including pages in your feed is particularly useful if you're using WordPress as a CMS where pages represent a good portion of your content.
 
+In addition to the support forum here, you can contact Marios Alexandrou via the official RSS Includes Pages page: http://infolific.com/technology/software-worth-using/include-pages-in-wordpress-rss-feeds/
+
 == Installation ==
 
 1. Upload the rss-includes-feeds folder to the '/wp-content/plugins/' directory
