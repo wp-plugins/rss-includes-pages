@@ -1,5 +1,5 @@
 === RSS Includes Pages ===
-Contributors: Marios-Alexandrou
+Contributors: Marios Alexandrou
 Donate link: http://infolific.com/technology/software-worth-using/include-pages-in-wordpress-rss-feeds/
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
