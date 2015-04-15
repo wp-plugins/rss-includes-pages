@@ -1,6 +1,6 @@
 === RSS Includes Pages ===
 Contributors: Marios Alexandrou
-Donate link: http://infolific.com/technology/software-worth-using/include-pages-in-wordpress-rss-feeds/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCPWXSGJVCQFQ&lc=CA&item_name=Marios%20Alexandrou&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
 Tested up to: 4.1
