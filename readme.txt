@@ -1,9 +1,9 @@
 === RSS Includes Pages ===
-Contributors: Marios Alexandrou
+Contributors: Marios-Alexandrou
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCPWXSGJVCQFQ&lc=CA&item_name=Marios%20Alexandrou&currency_code=CAD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
